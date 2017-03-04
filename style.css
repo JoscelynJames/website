@@ -1,0 +1,17 @@
+body {
+  background-color: purple;
+}
+
+#header {
+  font-size: 60px;
+  color: green;
+}
+
+#heading {
+  font-size: 30px;
+  color: blue;
+}
+
+.paragraph {
+  color: yellow;
+}
