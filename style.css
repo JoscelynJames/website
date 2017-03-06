@@ -21,7 +21,6 @@ body {
 
 div.image {
   position: relative;
-  border: 4px solid #c6c8cc;
   background-color: #c6c8cc;
 }
 
@@ -30,4 +29,8 @@ div.body1 {
   border: 4px solid #97afaf;
   background-color: #97afaf;
   text-align: center;
+}
+
+.dog {
+  height: 100px;
 }
