@@ -1,5 +1,5 @@
 function myAlert() {
-  alert('this is an alert')
+  alert('This is an alert')
 }
 
 myAlert();
