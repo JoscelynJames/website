@@ -1,17 +1,33 @@
 body {
-  background-color: purple;
+  background-color: #dfe8e3;
 }
 
 #header {
-  font-size: 60px;
-  color: green;
+  font-size: 75px;
+  color: #ddafaf;
+  font-family: serif;
+  text-shadow: 2px 2px #eaea99;
+  text-decoration: underline;
 }
 
 #heading {
   font-size: 30px;
-  color: blue;
+  color: #eaea99;
 }
 
 .paragraph {
-  color: yellow;
+  color: #59615f;
+}
+
+div.image {
+  position: relative;
+  border: 4px solid #c6c8cc;
+  background-color: #c6c8cc;
+}
+
+div.body1 {
+  position: relative;
+  border: 4px solid #97afaf;
+  background-color: #97afaf;
+  text-align: center;
 }
