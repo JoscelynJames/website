@@ -48,7 +48,7 @@ img {
 }
 
 #body-image {
-  background-image: url("https://cdn.pixabay.com/photo/2015/12/08/00/24/barn-1081686_960_720.jpg");
+  background-image: url("./barn.png");
   height: 100vh;
   width: 100vw;
   background-size: cover;
