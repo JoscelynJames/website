@@ -34,3 +34,62 @@ div.body1 {
 .dog {
   height: 100px;
 }
+
+.hero {
+  text-align: center;
+}
+
+#hero-header {
+  font-size: 40px;
+}
+
+img {
+  height: 250px;
+}
+
+#body-image {
+  background-image: url("https://cdn.pixabay.com/photo/2015/12/08/00/24/barn-1081686_960_720.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+}
+
+#splash-header {
+  text-align: center;
+  margin-top: 0;
+  padding-top: 100px;
+}
+
+.animal-button {
+ display: inline-block;
+ border:1px solid #4675a1;
+ color: #000000;
+ border-radius: 3px 3px 3px 3px;
+ -webkit-border-radius: 3px 3px 3px 3px;
+ -moz-border-radius: 3px 3px 3px 3px;
+ font-family: Verdana;
+ width: 375px;
+ height: auto;
+ font-size: 26px;
+ padding: 19px 47px;
+ box-shadow: inset 0 1px 0 0 #FFF6CE,inset 0 -1px 0 0 #E3C852,inset 0 0 0 1px #FCE88D,0 2px 4px 0 #D4D4D4;
+ -moz-box-shadow: inset 0 1px 0 0 #FFF6CE,inset 0 -1px 0 0 #E3C852,inset 0 0 0 1px #FCE88D,0 2px 4px 0 #D4D4D4;
+ -webkit-box-shadow: inset 0 1px 0 0 #FFF6CE,inset 0 -1px 0 0 #E3C852,inset 0 0 0 1px #FCE88D,0 2px 4px 0 #D4D4D4;
+ text-shadow: 0 1px 0 #9E9E9E;
+ background-color: #4675a1;
+ margin-bottom: 30px;
+ opacity: 0.7;
+}
+.animal-button:hover, .animal-button:active{
+ border:1px solid #266c48;
+ color: #EDEBEA;
+ box-shadow: inset 0 1px 0 0 #FFF6CE,inset 0 -1px 0 0 #E3C852,inset 0 0 0 1px #FCE88D;
+ -moz-box-shadow: inset 0 1px 0 0 #FFF6CE,inset 0 -1px 0 0 #E3C852,inset 0 0 0 1px #FCE88D;
+ -webkit-box-shadow: inset 0 1px 0 0 #FFF6CE,inset 0 -1px 0 0 #E3C852,inset 0 0 0 1px #FCE88D;
+ background-color: #266c48;
+
+}
+
+.button-div {
+  text-align: center;
+}
